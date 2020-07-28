@@ -1,0 +1,6 @@
+[db]
+host = localhost
+port = 5432
+user = your-cnetid-here
+dbname = your-cnetid-cnetid
+password = your-password-here
